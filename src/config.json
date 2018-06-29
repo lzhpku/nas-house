@@ -1,0 +1,10 @@
+{
+  "test": {
+    "contract_address": "n1eqBtp9ekHxUu1yFj2oe4zqxJKNWexryis",
+    "contact_host": "https://testnet.nebulas.io"
+  },
+  "main": {
+    "contract_address": "n1w9fjPtm9zkQDEqAHTCwdEHHMhxK3125XP",
+    "contact_host": "https://mainnet.nebulas.io"
+  }
+}
